@@ -106,13 +106,36 @@ Exploring document-based question answering using PDF extraction, text chunking,
 
 ---
 
-## 🏆 Research & Publications
 
-📄 **Design of an Automated Accident Alert System with Dual-Channel Notifications**
+## 📚 Research & Publications
 
-- IEEE conference paper
-- Research focused on automated accident detection and notification mechanisms.
-- Accepted subject to minor revisions.
+<div align="center">
+
+<img src="./research-publications.png" width="100%" alt="Research and Publications Infographic"/>
+
+</div>
+
+---
+
+### 📄 1. Design of an Automated Accident Alert System with Dual-Channel Notifications
+
+- **Publication:** IEEE Conference Paper
+- **Research Area:** IoT, Accident Detection, Automated Alert Systems
+- **Focus:** Real-time accident detection and automated dual-channel notifications.
+
+---
+
+### 🔐 2. Federated Intrusion Detection for Distributed Vehicle Networks Using Gaussian Noise and Explainable AI
+
+- **Research Area:** Cybersecurity, Federated Learning, VANETs, Explainable AI
+- **Focus:** Privacy-preserving intrusion detection for distributed vehicle networks using Gaussian noise and Explainable AI.
+- **Key Concepts:**
+  - Federated Learning for distributed model training.
+  - Gaussian Noise for privacy protection.
+  - Explainable AI (XAI) for interpretable intrusion detection.
+  - Vehicular Ad-hoc Networks (VANETs).
+
+
 
 ---
 
