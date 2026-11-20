@@ -127,13 +127,10 @@ Exploring document-based question answering using PDF extraction, text chunking,
 
 ### 🔐 2. Federated Intrusion Detection for Distributed Vehicle Networks Using Gaussian Noise and Explainable AI
 
+- **Publication:** IEEE Conference Paper
 - **Research Area:** Cybersecurity, Federated Learning, VANETs, Explainable AI
 - **Focus:** Privacy-preserving intrusion detection for distributed vehicle networks using Gaussian noise and Explainable AI.
-- **Key Concepts:**
-  - Federated Learning for distributed model training.
-  - Gaussian Noise for privacy protection.
-  - Explainable AI (XAI) for interpretable intrusion detection.
-  - Vehicular Ad-hoc Networks (VANETs).
+
 
 
 
