@@ -117,6 +117,13 @@ Exploring document-based question answering using PDF extraction, text chunking,
 - **Research Area:** IoT, Accident Detection, Automated Alert Systems
 - **Focus:** Real-time accident detection and automated dual-channel notifications.
 
+<p align="left">
+  <a href="./ICRISET-2026-Certificate.jpeg">
+    <img src="https://img.shields.io/badge/📜_View_Certificate-IEEE-blue?style=for-the-badge" alt="View Certificate"/>
+  </a>
+</p>
+
+
 ---
 
 ### 🔐 2. Federated Intrusion Detection for Distributed Vehicle Networks Using Gaussian Noise and Explainable AI
