@@ -109,13 +109,7 @@ Exploring document-based question answering using PDF extraction, text chunking,
 
 ## 📚 Research & Publications
 
-<div align="center">
 
-<img src="./research-publications.png" width="100%" alt="Research and Publications Infographic"/>
-
-</div>
-
----
 
 ### 📄 1. Design of an Automated Accident Alert System with Dual-Channel Notifications
 
